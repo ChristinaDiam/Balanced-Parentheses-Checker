@@ -1,9 +1,3 @@
-
-
-#	AM: 1115201800046
-#   NAME: ΧΡΙΣΤΙΝΑ ΔΙΑΜΑΝΤΗ
-
-
 class mystack:
     
     def __init__(self):
